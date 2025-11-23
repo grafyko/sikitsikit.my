@@ -105,8 +105,5 @@ Note: You must have an internet connection for the chatbot to load (it connects 
 
 📬 Contact
 
-Created by [Your Name]
-
-[LinkedIn Profile]
-
-[Email Address]
+Created by Aeman Ruslan
+aemanruslan@gmail.com
