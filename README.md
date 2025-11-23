@@ -4,7 +4,7 @@ Sikitsikit.my - localized AI Insurtech Platform 🇲🇾
 
 Sikitsikit.my is a concept Insurtech platform designed specifically for the Malaysian market. It bridges the gap between complex insurance policies and potential policyholders using a hyper-localized AI assistant.
 
-🔴 Live Demo: Click here to view the live site
+🔴 Live Demo: [Click here to view the live site](https://cdn.botpress.cloud/webchat/v3.4/shareable.html?configUrl=https://files.bpcontent.cloud/2025/05/13/15/20250513150621-FM9VFSTL.json)
 
 🤖 Meet "CikBijakSikit" (The AI Persona)
 
